@@ -4,7 +4,7 @@
   </td>
   <td>
     <h1>Hi, I'm Remy Chaput :wave:</h1>
-    <span>PhD in Artificial Intelligence:robot:</span>
+    <span>PhD in Artificial Intelligence :robot:</span>
   </td>
 </table>
 
@@ -17,12 +17,12 @@
   Java, although I use many languages.
 - I mainly create projects that I find useful, but I also code for fun.
 
-Read more on [rchaput.github.io](https://rchaput.github.io/)
+Read more on :page_with_curl: [rchaput.github.io](https://rchaput.github.io/)
 
 <h2>My stack :computer:</h2>
 
-<table border="0" style="vertical-align: top">
-  <td style="vertical-align: top">
+<table border="0">
+  <td valign="top">
     <h3>Programming languages</h3>
     <img src="https://img.shields.io/badge/Language-Python3-informational?style=flat-square&logo=python" alt="Python" /><br />
     <img src="https://img.shields.io/badge/Language-Java-informational?style=flat-square" alt="Java" /><br />
@@ -38,7 +38,7 @@ Read more on [rchaput.github.io](https://rchaput.github.io/)
     <img src="https://img.shields.io/badge/Framework-React-informational?style=flat-square&logo=react" alt="React" /><br />
   </td>
 
-  <td style="vertical-align: top">
+  <td valign="top">
     <h3>Tools :wrench: </h3>
     <img src="https://img.shields.io/badge/VCS-Git-informational?style=flat-square&logo=git" alt="Git" /><br />
     <img src="https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat-square&logo=intellijidea" alt="IntelliJ IDEA" /><br />
@@ -69,4 +69,8 @@ Read more on [rchaput.github.io](https://rchaput.github.io/)
 <a href="https://github.com/ethicsai/ethical-smart-grid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ethicsai&repo=ethical-smart-grid&show_owner=true&theme=transparent" />
 </a>
+
+<br />
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rchaput/acronyms,rchaput/xdg-prefs&type=Date)](https://star-history.com/#rchaput/acronyms&rchaput/xdg-prefs&Date)
 
